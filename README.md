@@ -23,7 +23,7 @@ In this competition, your goal is to predict the genres of movies from their pos
 * Pretrained Models Used:
   1. Resnet-18 
   2. Resnet-50 (0.896-0.921)
-  3. Resnext (0.902-0.930)
+  3. resnext101_32x4d (0.902-0.930)
 
 * Tried different Image Augmentations
 
